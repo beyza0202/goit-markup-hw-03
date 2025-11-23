@@ -17,7 +17,8 @@ ul {
 
 body {
   font-family: "Roboto", sans-serif;
-  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
   color: #2e2f42;
   max-width: 1440px;
 }
@@ -240,7 +241,7 @@ body {
 /* FOOTER */
 .page-footer {
   background-color: #2e2f42;
-  padding: 60px 0;
+  padding: 312px 1.440px;
 }
 
 .logo-light {
